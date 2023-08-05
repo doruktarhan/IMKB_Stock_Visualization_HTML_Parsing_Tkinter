@@ -3,7 +3,7 @@
 
 Stock Visualizer
 
-This project is an easy-to-use stock visualizer application. You can search for a stock by name and the application will pull its data, create a graph and display it within the GUI.
+This project is an easy-to-use stock visualizer application. You can search for a stock by name from IMKB and the application will pull its data, create a graph and display it within the GUI.
 
 Features
 Database of Stocks: Uses Beautiful Soup to scrape HTML data and create a comprehensive database of stocks.
